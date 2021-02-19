@@ -1,0 +1,10 @@
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\bin\Debug\kryptograficzny.exe.config
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\bin\Debug\kryptograficzny.exe
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\bin\Debug\kryptograficzny.pdb
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\obj\Debug\kryptograficzny.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\obj\Debug\kryptograficzny.Kryptacz.resources
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\obj\Debug\kryptograficzny.Properties.Resources.resources
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\obj\Debug\kryptograficzny.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\obj\Debug\kryptograficzny.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\obj\Debug\kryptograficzny.exe
+C:\Users\rafae\Desktop\cccc\krypto\kryptograficzny\obj\Debug\kryptograficzny.pdb
